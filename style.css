@@ -40,13 +40,19 @@ html{
     background-color: var(--magenta) ;
     grid-row: span 3;
     grid-column: span 1;
+    background-image: url(images/ss1.jpg);
     
+}
+
+.item8{
+    background-image: url(images/ss3.jpg);
 }
 
 .item6{
     background-color: rgb(magenta);
     grid-row: span 3;
     grid-column: span 1;
+    background-image: url(images/ss2.jpg);
 }
 
 @media only screen and (max-width:950px){
